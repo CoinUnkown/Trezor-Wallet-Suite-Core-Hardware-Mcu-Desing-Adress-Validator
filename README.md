@@ -26,7 +26,7 @@
   * upon requesting password decryption, user sees on Trezor's display decryption
     of which password group is requested before confirmation
   * backup/export of passwords possible, also requires explicit button confirmation
-  * if Trezor is lost, recovery from seed on a new Trezor and using the same
+  * if Trezor is lost, recovery from seed on a new Trezor and using the same 
     password will also recover encrypted password database (in theory recovery
     can be done without Trezor, but such script is not yet written)
 
